@@ -18,6 +18,7 @@ para conocer y personalizar las funciones adicionales.
    Esta página se recargará automáticamente después de guardar los cambios en los 
    archivos del proyecto.
 
+
 ## Archivos y carpetas
 
 - Todos los partials de los archivos de estilo deben estar en la carpeta `src/sass`
